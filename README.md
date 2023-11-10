@@ -23,15 +23,15 @@ Check File and Directory Details: <br/>
 <img src="https://i.imgur.com/TsshiCX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Change File Permissions:  <br/>
+Changing File Permissions:  <br/>
 <img src="https://i.imgur.com/AhabYE1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Change File Permissions on a Hidden File: <br/>
+Changing File Permissions on a Hidden File: <br/>
 <img src="https://i.imgur.com/iTgd8Yc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Change Directory Permissions:  <br/>
+Changing Directory Permissions:  <br/>
 <img src="https://i.imgur.com/DSlV6RX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
